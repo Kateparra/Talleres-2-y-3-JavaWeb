@@ -19,7 +19,7 @@ Maven 2.9.0 o superior
 Una base de datos MySQL
 ###Configuración de la base de datos)
 
-*[para ejecutar la aplicación,se nesecita configurar la conexión a la base de datos en el archivo application.properties con el siguiente contenido:]
+*[para ejecutar la aplicación,se nesecita configurar la conexión a la base de datos con el siguiente contenido:]
 (private static final String URL= "jdbcmysql://localhost:3306/my_app serverTimezone=America/Bogota";"
 private static final String USER ="my_app_user";
 private static final String PASS="my_app_password";)
