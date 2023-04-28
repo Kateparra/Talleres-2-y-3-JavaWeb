@@ -13,7 +13,7 @@
 
 
 *[Requisitos]
-(para correr el proyecto se necesitan los siguientes requisitos:
+(#para correr el proyecto se necesitan los siguientes requisitos:
 Java 8 o superior
 Maven 2.9.0 o superior
 Una base de datos MySQL
